@@ -705,7 +705,10 @@ p {
     margin: auto auto auto auto;
     display: block;
 }
-
+a.social {
+    width: auto;
+    padding:3px;
+}
 h2 {
     font-size: 22px;
     line-height: 1.2;
