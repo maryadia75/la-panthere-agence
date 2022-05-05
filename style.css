@@ -899,8 +899,8 @@ figcaption {
         position: relative;
     }
     .bloc {
-        padding-left: 20;
-        padding-right: 20;
+        padding-left: 20px;
+        padding-right: 20px;
     }
     .bloc-group,
     .bloc-group .bloc {
